@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|c:\\users\\sulaco\\desktop\\code\\func\\func\\getsettinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|solutionrelative:func\\getsettinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|c:\\users\\sulaco\\desktop\\code\\func\\func\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|solutionrelative:func\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|c:\\users\\sulaco\\desktop\\code\\func\\func\\func.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|solutionrelative:func\\func.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|c:\\users\\sulaco\\desktop\\code\\func\\func\\echo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|solutionrelative:func\\echo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|c:\\users\\sulaco\\desktop\\code\\func\\func\\recurring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|solutionrelative:func\\recurring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|c:\\users\\sulaco\\desktop\\code\\func\\func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698C8F2-2BC4-4BCB-8510-C3729886F303}|func\\func.csproj|solutionrelative:func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "func",
+              "DocumentMoniker": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\func.csproj",
+              "RelativeDocumentMoniker": "func\\func.csproj",
+              "ToolTip": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\func.csproj",
+              "RelativeToolTip": "func\\func.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T22:41:52.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetSettingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\GetSettingInfo.cs",
+              "RelativeDocumentMoniker": "func\\GetSettingInfo.cs",
+              "ToolTip": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\GetSettingInfo.cs",
+              "RelativeToolTip": "func\\GetSettingInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:42:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recurring.cs",
+              "DocumentMoniker": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\Recurring.cs",
+              "RelativeDocumentMoniker": "func\\Recurring.cs",
+              "ToolTip": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\Recurring.cs",
+              "RelativeToolTip": "func\\Recurring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:04:10.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\local.settings.json",
+              "RelativeDocumentMoniker": "func\\local.settings.json",
+              "ToolTip": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\local.settings.json",
+              "RelativeToolTip": "func\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T21:29:35.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\Program.cs",
+              "RelativeDocumentMoniker": "func\\Program.cs",
+              "ToolTip": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\Program.cs",
+              "RelativeToolTip": "func\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:29:04.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Echo.cs",
+              "DocumentMoniker": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\Echo.cs",
+              "RelativeDocumentMoniker": "func\\Echo.cs",
+              "ToolTip": "C:\\Users\\Sulaco\\Desktop\\Code\\func\\func\\Echo.cs",
+              "RelativeToolTip": "func\\Echo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:28:13.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
